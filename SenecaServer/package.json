@@ -1,0 +1,29 @@
+{
+  "name": "senecaserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "BusinessServer.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "seneca": "^3.4.3",
+    "seneca-web": "^2.2.0",
+    "seneca-web-adapter-express": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csy19900206/NodeMicroEnd.git"
+  },
+  "keywords": [
+    "seneca"
+  ],
+  "author": "Chensy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/csy19900206/NodeMicroEnd/issues"
+  },
+  "homepage": "https://github.com/csy19900206/NodeMicroEnd#readme"
+}
