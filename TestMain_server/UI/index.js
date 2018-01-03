@@ -1,0 +1,5 @@
+
+function load(){
+	$(".title").val();
+}
+
