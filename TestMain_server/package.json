@@ -1,0 +1,28 @@
+{
+  "name": "testmain_server",
+  "version": "1.0.0",
+  "description": "nodejs microservices endpoint",
+  "main": "index.js",
+  "dependencies": {
+    "formidable": "^1.0.17",
+    "jquery": "^3.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csy19900206/NodeMicroEnd.git"
+  },
+  "keywords": [
+    "micro"
+  ],
+  "author": "Chensy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/csy19900206/NodeMicroEnd/issues"
+  },
+  "homepage": "https://github.com/csy19900206/NodeMicroEnd#readme"
+}
