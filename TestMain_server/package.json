@@ -4,8 +4,9 @@
   "description": "nodejs microservices endpoint",
   "main": "index.js",
   "dependencies": {
-    "formidable": "^1.0.17",
-    "jquery": "^3.1.1"
+    "formidable": "^1.1.1",
+    "jquery": "^3.1.1",
+    "seneca": "^3.4.3"
   },
   "devDependencies": {},
   "scripts": {
