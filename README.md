@@ -1,4 +1,4 @@
-# SenecaServer
+# SenecaServer Sample Project
 
 Please find package.json file in TestMain_server Dir.
 
