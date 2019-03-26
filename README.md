@@ -1,4 +1,4 @@
-# NodeMicroEnd
+# SenecaServer
 
 Please find package.json file in TestMain_server Dir.
 
